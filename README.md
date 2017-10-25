@@ -1,4 +1,4 @@
-# FDSuit dockerized
+# DFSuit dockerized
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@
 Create `Dockerfile` in your poject root with following contents:
 
 ```Dockerfile
-FROM fandab/fdsuit:latest
+FROM dabfan/dfsuit:latest
 
 COPY . /var/www
 ```
